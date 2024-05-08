@@ -1,5 +1,5 @@
 function Ad=Adjoint(g)
-%Çó¾ØÕógµÄAdjoint¾ØÕó
+% Adjoint transformation
 Ad_11=g([1,2,3],[1,2,3]);
 Ad_12=hat(g(1:3,4))*g([1,2,3],[1,2,3]);
 Ad_21=zeros(3);
