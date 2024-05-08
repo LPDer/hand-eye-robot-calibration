@@ -17,7 +17,7 @@ Run "main_calibration_POE.m" and "main_calibration_EMDH.m" in main directory
 - For detailed explanations of POE and EMDH, please refer to the referenced literature.
 
 # Reference
-- C. Li, Y. Wu, H. Loewe, and Z. Li, “POE-Based Robot Kinematic Calibration Using Axis Configuration Space and the Adjoint Error Model,” Ieee Transactions on Robotics, vol. 32, no. 5, pp. 1264-1279, Oct, 2016.
+- C. Li, Y. Wu, H. Loewe, and Z. Li, “POE-Based Robot Kinematic Calibration Using Axis Configuration Space and the Adjoint Error Model,” IEEE Transactions on Robotics, vol. 32, no. 5, pp. 1264-1279, Oct, 2016.
 - M. Dehghani, R. A. McKenzie, R. A. Irani, and M. Ahmadi, “Robot-mounted sensing and local calibration for high-accuracy manufacturing,” Robotics and Computer-Integrated Manufacturing, vol. 79, 2023.
 
 
